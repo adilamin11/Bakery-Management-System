@@ -1,0 +1,7 @@
+Delivery Date: 2024-07-14
+Payment Method: Cash
+
+Products:
+Product: Chocolate Cake, Quantity: 1, Price: 300, Total Price: 300
+
+Total Amount: 300
